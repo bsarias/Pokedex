@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="logo_android">logo android</string>
+    <string name="name">Name</string>
+    <string name="real_name">Brayan Arias</string>
+    <string name="birth_date">Birth date</string>
+    <string name="real_birth_date">15 Oct 1998</string>
+    <string name="gender">Gender</string>
+    <string name="real_gender">Male</string>
+</resources>
